@@ -1,0 +1,77 @@
+.containerUser {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .nav-pills .nav-link {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .nav-pills .nav-link .active {
+    background-color:#F3F2EE !important;
+    color: black;
+  }
+  
+  .tab-content {
+    /* background-color: #f9f9f9; */
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+
+  }
+  
+  .user-data-box {
+    /* background-color: #F3F2EE; */
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-data-box input {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 100%;
+  }
+  
+  .user-data-box .form-label {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .user-data-box button {
+    margin-top: 20px;
+  }
+  
+  .favorites .cardUser {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 8px;
+  }
+  
+  .favorites .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .favorites .card-bodyUser {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .favorites .btn-danger {
+    width: 100%;
+  }
+  
